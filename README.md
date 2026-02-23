@@ -1,2 +1,2 @@
 # iplproject
-django prac
+django prac 
